@@ -63,7 +63,7 @@ Doshop1/
 
 ### Step 1: Clone or Navigate to Project
 ```bash
-cd Doshop1
+cd Doshop
 ```
 
 ### Step 2: Install Dependencies
@@ -198,6 +198,7 @@ NODE_ENV=development
   timestamps: true
 }
 ```
+{images}
 
 ## 🧪 Testing the Application
 
@@ -263,3 +264,20 @@ MERN Stack Assignment - Doshop E-Commerce Landing Page
 ---
 
 **Happy Shopping! 🛒**
+
+
+## 📸 Project Demo
+
+### 🖼️ Screenshots
+
+<p align="center">
+  <img src="./images/demo-img1.png" width="700" alt="Demo Image 1"/>
+  <br/><br/>
+  <img src="./demo-img2.png" width="700" alt="Demo Image 2"/>
+  <br/><br/>
+  <img src="./demo-img3.png" width="700" alt="Demo Image 3"/>
+  <br/><br/>
+  <img src="./demo-img4.png" width="700" alt="Demo Image 4"/>
+  <br/><br/>
+  <img src="./demo-img5.png" width="700" alt="Demo Image 5"/>
+</p>
