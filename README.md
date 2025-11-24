@@ -271,7 +271,7 @@ MERN Stack Assignment - Doshop E-Commerce Landing Page
 ### 🖼️ Screenshots
 
 <p align="center">
-  <img src="demo-img1.png" width="700" />
+  <img src="doshop-img1.png" width="700" />
   <br/><br/>
   <img src="demo-img2.png" width="700" />
   <br/><br/>
