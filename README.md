@@ -264,6 +264,20 @@ MERN Stack Assignment - Doshop E-Commerce Landing Page
 ---
 
 **Happy Shopping! 🛒**
+## 🎥 Demo Video
+
+### ▶️ Doshop – Full Project Walkthrough
+
+<p align="center">
+  <iframe src="https://drive.google.com/file/d/YOUR_VIDEO_ID/preview" 
+          width="800" 
+          height="450"
+          allow="autoplay">
+  </iframe>
+</p>
+
+🔗 **Direct Watch Link:**  
+https://drive.google.com/file/d/YOUR_VIDEO_ID/view
 
 
 ## 📸 Project Demo
